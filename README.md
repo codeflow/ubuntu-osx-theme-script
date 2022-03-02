@@ -18,13 +18,6 @@ $ cd $HOME/ubuntu-osx-theme-script
 $ chmod +x setup
 ```
 
-Set permissions to setup script
-
-```sh
-$ cd $HOME/ubuntu-osx-theme-script
-$ chmod +x setup
-```
-
 Install the theme using the setup script
 
 ```sh
