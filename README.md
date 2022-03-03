@@ -2,6 +2,10 @@
 
 A OSX-like theme for your Ubuntu Linux
 
+![001](https://raw.githubusercontent.com/codeflow/ubuntu-osx-theme-script/images/001.png)
+![002](https://raw.githubusercontent.com/codeflow/ubuntu-osx-theme-script/images/002.png)
+![003](https://raw.githubusercontent.com/codeflow/ubuntu-osx-theme-script/images/003.png)
+
 <details> <summary> Tested versions </summary>
 
 - Ubuntu 21.04
