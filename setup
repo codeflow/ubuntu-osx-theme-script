@@ -23,6 +23,7 @@ cd "$DIRECTORY";
 
 #Setting OSX Theme
 if [[ "$1" == "-b" || "$1" == "--use-backup" ]]; then
+	unzip backup/osx-theme.zip
 	cp -R backup/osx-theme .;
 else
 	git clone "https://github.com/vinceliuice/WhiteSur-gtk-theme.git";
